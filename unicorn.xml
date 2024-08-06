@@ -5,7 +5,8 @@
   
   <!-- Device trees -->
   <project name="xiaomi-unicorn-development/android_device_xiaomi_unicorn" path="device/xiaomi/unicorn" remote="github" revision="xyz" />
-  <project name="xiaomi-unicorn-development/android_device_xiaomi_sm8450-common" path="device/xiaomi/sm8450-common" remote="github" revision="lineage-21" />
+  <project name="PixelOS-AOSP/device_xiaomi_sm8450-common" path="device/xiaomi/sm8450-common" remote="github" revision="fourteen" />
+  <project name="PixelOS-AOSP/hardware_xiaomi" path="hardware/xiaomi" remote="github" revision="fourteen" />
   <project name="xiaomi-unicorn-development/android_device_xiaomi_sepolicy" path="device/xiaomi/sepolicy" remote="github" revision="uvite" />
   <!-- Kernel trees -->
   <project name="xiaomi-unicorn-development/android_kernel_xiaomi_sm8450" path="kernel/xiaomi/sm8450" remote="github" revision="lineage-21" />
